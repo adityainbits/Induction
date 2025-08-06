@@ -42,5 +42,9 @@ It was a great experience for me overall and I look forward to a more wholesome 
 ## DAY 6.
 >Day 6 started sharp at 9:30 AM with our first Chemistry lecture by prof. Karan Bhalla sir was very sweet , soft spoken person , kind and very helpfull. During the leacture sir gave us basic chemistry questions and sir also explain the first chapter of the chemistry that is "Water Treatment". Sir provided valuable insights and gave us a detailed overview of internal and external marks, MSTs, Theory and lab components, and other important aspects.
 
+>The next lecture was taken by Prof. Nisha. It was an English session focused on effective communication and how to introduce oneself in a formal setting. After explaining the key points, ma'am asked each of us to give our own introduction. When my turn came, I felt quite nervous and anxious but surprisingly, it turned out to be a good experience in the end.
+
+
+
 
 
