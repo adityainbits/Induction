@@ -39,6 +39,8 @@ It was a great experience for me overall and I look forward to a more wholesome 
 
 ---
 
-## DAY 5.
-> On august 25th ,we had our picture taken for identity card and information as our name , address, mother’s and father’s name , our branch etc was asked . This process took place in TCC seminar hall . We had no classes today.
+## DAY 6.
+>Day 6 started sharp at 9:30 AM with our first Chemistry lecture by prof. Karan Bhalla sir was very sweet , soft spoken person , kind and very helpfull. During the leacture sir gave us basic chemistry questions and sir also explain the first chapter of the chemistry that is "Water Treatment". Sir provided valuable insights and gave us a detailed overview of internal and external marks, MSTs, Theory and lab components, and other important aspects.
+
+
 
