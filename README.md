@@ -56,7 +56,7 @@ It was a great experience for me overall and I look forward to a more wholesome 
 
 > Another lecture was delivered by Dr. Randhir Singh on the topic 'Conduct of Examination'. Sir gave us a clear and brief explanation of how our exams will be conducted. He also introduced us to the GNDEC website, explaining how to navigate it and what important tasks we need to perform through it.
 
-💠***Highlighted Point***
+💠***Highlighted Point***:
 
 -  Sir told about the examination dates and how it will conduct.
 -  Sir also explain about the academic portal of GNDEC.
@@ -65,7 +65,7 @@ It was a great experience for me overall and I look forward to a more wholesome 
  
 > At 1:30 p.m., a BEEE lecture was conducted by Prof. Harminder Kaur in the (ME Seminar Hall), where students from CSE-A and CSE-B Branch were merged together. Ma'am gave us a brief introduction to the topic "DC Circuit".
 
-📕***Ma'am gave us explaination to the following Sub-Topics are as follows***.
+📕***The following subtopics were covered in ma'am’s explanation are***:
 - Electricty
 - Electric Current
 - Electric Potential
@@ -74,10 +74,39 @@ It was a great experience for me overall and I look forward to a more wholesome 
 
 ---
 
+## *DAY 8*.
+> Day 8 at college began with interesting lectures and useful sessions. The first lecture was given by Mrs. Shaffy Makkar on "Millets Super Food" in this lecture ma'am introduces Millets, It's type and its importance towards health. Ma'am also spoke about the history of millets, explaining that it is a traditional food widely eaten by many Indians in the 1900s. Ma'am told that after the "Green Revolution" the production of wheat and rice widely spread thus increased production of wheat and rice led to a decline in the cultivation of millets.
 
+### 🌿***MILLETS***
+#### 🔹***RAGI***
 
+- Rich in Nutrients
+- Good for Bones
+- Helps Manage Diabetes
+- Gluten-Free 
 
+#### 🔹***FOXTAIL***
 
+- Supports Heart Health 
+- Aids Weight Management 
+- Improves Digestion 
+- Boosts Immunity
 
+#### 🔹***PROSO***
+
+- Good for Nervous System
+- Helps Manage Diabetes
+- Blood Sugar Control
+- Energy Sustainer
+
+#### 🔹***BARNYARD***
+- High in Fiber
+- Rich in Antioxidants
+- Good for Detox
+- Rich in Iron
+
+>Next lecture starts at 10:30 a.m in TCC Sem Hall. It was a mathematics lecture conducted by Prof. Gagandeep Kaur Lotey, in which ma'am introduced us to the number system where ma'am spoke about the Natural numbers, Whole numbers, Real numbers, Complex numbers and some basics of Number line. Ma'am clarified all the misconceptions we had in our minds and also told facts and give real life examples for better understanding.
+
+> Ma'am take an example of a race track, when we run at a race track we always run anti-clockwise it is beacuse according to mathematics anti-clockwise direction is basically a positive direction which completes a circle with positive numbers.  
 
 
