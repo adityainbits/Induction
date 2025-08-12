@@ -40,14 +40,18 @@ GNDEC gives me a chance to know the importance of food in our life and the lectu
 ---
 
 ## *DAY 3*.
-Today’s lecture was taken by Dr. Jaswinder Singh, and it was both interesting and inspiring. He explained how maths and physics are connected to everything around us and shared the flower story from Bhai Veer Singh Ji. He encouraged us to reflect on ourselves, saying, “Talk to yourself to know yourself.” The session included amazing experiments and an explanation of the spiritual and mathematical meaning of the number 108. He also shared valuable life lessons from Sikh teachings, making the lecture interactive, engaging, and full of learning.
+
+### 🔹***Lecture*** 1. - ***Dr. Jaswinder Singh***
+### 🔺***Topic*** - ***Connections between Maths, Physics, and Everyday Life***
+
+The day began with a lecture that was both inspiring and interesting. He explained how maths and physics are connected to everything around us and shared the flower story from Bhai Veer Singh Ji. He encouraged us to reflect on ourselves, saying, “Talk to yourself to know yourself.” The session included amazing experiments and an explanation of the spiritual and mathematical meaning of the number 108. He also shared valuable life lessons from Sikh teachings, making the lecture interactive, engaging, and full of learning.
 
 >As our sir rightly said, “Desire is what drives achievement to achieve something great, you must want it with all your heart".
 
+### 🔹***Lecture*** 2. - ***Dr. Priya Darshani***
+### 🔺***Topic*** - ***Universal Human Values***  
 
-Next, We had a session with Dr. Priya Darshni Ma'am on "UNIVERSAL HUMAN VALUES"
-
-#### 💠***CORE HIGHLIGHTS***
+#### ***CORE HIGHLIGHTS***
 
 - Discussed the importance of relationships, values, and clarity.
 - Guided us to evaluate our goals and aspirations.
@@ -58,18 +62,28 @@ Next, We had a session with Dr. Priya Darshni Ma'am on "UNIVERSAL HUMAN VALUES"
 ---
 
 ## *DAY 4*.
-The Day 4 started with "P2P Lecture" it was a Coding Lecture delivered by our Seniors, where we were introduced to:
+
+### 🔹***Lecture*** 1. – ***Introduction to Programming (P2P Lecture)***
+We began our day with an interactive coding lecture by our seniors, where we were introduced to:
 
 - Introduction to the basics of programming.
 - Core fundamentals of the C++ language.
 - Understanding how coding will play a vital role in our academic journey.
 - Overview of real-life applications of programming skills.
 
-Next class was taken by Prof. Harminder Kaur where ma'am introduces the basic of BEEE Subject and why it is important for our academics, also mention the importance of electrical engineering for all branches and give Overview about the syllabus and marking scheme for respective exams.
+### 🔹***Lecture*** 2. – ***Prof. Harwinder Kaur***
+### 🔺***Topic*** - ***Basics of BEEE (Electrical Engineering)***
 
-The next session Carried out by Dr. Priya Darshni Ma'am on "UNIVERSAL HUMAN VALUES-2"
+In this class Ma'am introduce us to:
+  
+-  Introduction to the fundamentals of the BEEE subject.  
+-  Why electrical engineering concepts are important for our academics.  
+-  Overview of syllabus and marking scheme for upcoming exams.  
 
-#### 💠***KEY OBSERVATION***
+### 🔹***Lecture*** 3. - ***Dr. Priya Darshani***
+### 🔺***Topic*** - ***Universal Human Values*** 2
+
+#### ***KEY OBSERVATION***
 
 - Understanding the difference between happiness, excitement, indulgence, and depression.
 - Learning to avoid pursuing material possessions out of comparison with others.
@@ -96,27 +110,33 @@ Today is all about ID card formation, where all stuents of CSE-A BRACNH are asse
 ---
 
 ## *DAY 6*.
-Day 6 started sharp at 9:30 AM with our first Chemistry lecture by prof. Karan Bhalla sir was very sweet , soft spoken person , kind and very helpfull. During the leacture sir gave us basic chemistry questions and sir also explain the first chapter of the chemistry that is "Water Treatment". Sir provided valuable insights and gave us a detailed overview of internal and external marks, MSTs, Theory and lab components, and other important aspects.
 
-The next lecture was taken by Prof. Nisha. It was an English session focused on effective communication and how to introduce oneself in a formal setting. After explaining the key points, ma'am asked each of us to give our own introduction. When my turn came, I felt quite nervous and anxious but surprisingly, it turned out to be a good experience in the end.
+#### ***🔹Lecture*** 1. - ***Prof. Karan Bhalla***
+Day 6 started sharp at 9:30 AM with our first Chemistry lecture. During the leacture sir gave us basic chemistry questions and sir also explain the first chapter of the chemistry that is "Water Treatment". Sir provided valuable insights and gave us a detailed overview of internal and external marks, MST's, Theory and lab components, and other important aspects.
+
+#### 🔹***Lecture*** 2. - ***Prof. Nisha***
+The second lecture of the day was an English session where ma'am focused on effective communication and how to introduce oneself in a formal setting. After explaining the key points, ma'am asked each of us to give our own introduction. When my turn came, I felt quite nervous and anxious but surprisingly, it turned out to be a good experience in the end.
 
 ---
 
 ## *DAY 7*.
-Day 7 began with a lecture by Dr. Amit Kamra (Incharge – DMC) in the auditorium at 9:30 a.m. In the session, sir introduced us to the DMC group and explained its importance. He also mentioned some of their outstanding students who had mastered this skill and shared their work with us. Their achievements were truly impressive and inspiring, encouraging us to participate in the DMC group.
 
+#### 🔹***Lecture*** 1. - ***Dr. Amit Kamra (Incharge – DMC)***
+The day started in the auditorium at 9:30 a.m with our first lecture. In this session, sir introduced us to the DMC (Digital Marketing Club) group and explained its importance. He also mentioned some of their outstanding students who had mastered this skill and shared their work with us. Their achievements were truly impressive and inspiring, encouraging us to participate in the DMC group.
+
+#### 🔹***Lecture*** 2. -  ***Dr. Randhir Singh***
 Another lecture was delivered by Dr. Randhir Singh on the topic 'Conduct of Examination'. Sir gave us a clear and brief explanation of how our exams will be conducted. He also introduced us to the GNDEC website, explaining how to navigate it and what important tasks we need to perform through it.
 
-💠***Highlighted Point***:
+***Highlighted Point***:
 
 -  Sir told about the examination dates and how it will conduct.
 -  Sir also explain about the academic portal of GNDEC.
 -  Sir informed us about the available scholarships and how we can apply for them.
   
- 
-At 1:30 p.m., a BEEE lecture was conducted by Prof. Harminder Kaur in the (ME Seminar Hall), where students from CSE-A and CSE-B Branch were merged together. Ma'am gave us a brief introduction to the topic "DC Circuit".
+ #### 🔹***Lecture*** 3. - ***Prof. Harminder Kaur***
+ In the (ME Seminar Hall), we had our BEEE lecture."where students from CSE-A and CSE-B Branch were merged together. Ma'am gave us a brief introduction to the topic "DC Circuit".
 
-📕***The following subtopics were covered in ma'am’s explanation are***:
+***The following subtopics were covered in ma'am’s explanation are***:
 - Electricty
 - Electric Current
 - Electric Potential
