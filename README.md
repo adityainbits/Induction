@@ -25,7 +25,7 @@
 
 My first day at GNDEC started with all the CSE and IT students assembling in the "GURDWARA SAGIB" located within the GNDEC campus which is mot only a spritual centre but also an architectural landmark. The atmosphere was calm and beautiful. We spent 1hr around in the Gurdwara sahib started with their blessings and it also  refletcs teh cultural heritage and values embraced by the institution. After that we had a refreshment break and then all the students from CSE and IT branch assembled in auditorium which was beautifully decorated where our Induction programe started after waiting for a while, the host invited the speaker. The lecture of sir made us feel like we already a part of GNDEC family.
 
-The HOD of GNDEC Harpreet Mam motiivated us to grow in life , focus on the studies as well as to take partcipate in all other activities which help's us to build our best charachter and also emphaszing its 70 year of Excellence which builds out brilliant minds. Mam also highlights the history of the GNDEC and also tell us about first 36 year which are dedicated to establish the institute. A lot of Great people share their words of wisdom thier words motivated me, from their experience i gained countless lessons.  
+The HOD of GNDEC "Harpreet Mam" motiivated us to grow in life , focus on the studies as well as to take partcipate in all other activities which help's us to build our best charachter and also emphaszing its 70 year of Excellence which builds out brilliant minds. Mam also highlights the history of the GNDEC and also tell us about first 36 year which are dedicated to establish the institute. A lot of Great people share their words of wisdom thier words motivated me, from their experience i gained countless lessons.  
 
 At last, some great personalities from our college were shared with us, which motivated us even more to do something great in our future. 
 It was a great experience for me overall and I look forward to a more wholesome and motivating atmosphere which will help me get better and sharp.
@@ -51,7 +51,7 @@ The day began with a lecture that was both inspiring and interesting. He explain
 ### 🔹***Lecture*** 2. - ***Dr. Priya Darshani***
 ### 🔺***Topic*** - ***Universal Human Values***  
 
-#### ***CORE HIGHLIGHTS***
+#### 🎯***CORE HIGHLIGHTS*** :
 
 - Discussed the importance of relationships, values, and clarity.
 - Guided us to evaluate our goals and aspirations.
@@ -74,7 +74,7 @@ We began our day with an interactive coding lecture by our seniors, where we wer
 ### 🔹***Lecture*** 2. – ***Prof. Harwinder Kaur***
 ### 🔺***Topic*** - ***Basics of BEEE (Electrical Engineering)***
 
-In this class Ma'am introduce us to:
+ In this class Ma'am introduce us to:
   
 -  Introduction to the fundamentals of the BEEE subject.  
 -  Why electrical engineering concepts are important for our academics.  
@@ -83,7 +83,7 @@ In this class Ma'am introduce us to:
 ### 🔹***Lecture*** 3. - ***Dr. Priya Darshani***
 ### 🔺***Topic*** - ***Universal Human Values*** 2
 
-#### ***KEY OBSERVATION***
+#### 🎯***KEY OBSERVATION*** :
 
 - Understanding the difference between happiness, excitement, indulgence, and depression.
 - Learning to avoid pursuing material possessions out of comparison with others.
@@ -127,7 +127,7 @@ The day started in the auditorium at 9:30 a.m with our first lecture. In this se
 #### 🔹***Lecture*** 2. -  ***Dr. Randhir Singh***
 Another lecture was delivered by Dr. Randhir Singh on the topic 'Conduct of Examination'. Sir gave us a clear and brief explanation of how our exams will be conducted. He also introduced us to the GNDEC website, explaining how to navigate it and what important tasks we need to perform through it.
 
-***Highlighted Point***:
+🎯***Highlighted Point*** :
 
 -  Sir told about the examination dates and how it will conduct.
 -  Sir also explain about the academic portal of GNDEC.
@@ -146,6 +146,10 @@ Another lecture was delivered by Dr. Randhir Singh on the topic 'Conduct of Exam
 ---
 
 ## *DAY 8*.
+
+#### 🔹***Lecture*** 1. - ***Mrs. Shaffy Makkar***
+#### 🔺***Topic*** - ***Millets Super Food***
+
 Day 8 at college began with interesting lectures and useful sessions. The first lecture was given by Mrs. Shaffy Makkar on "Millets Super Food" in this lecture ma'am introduces Millets, It's type and its importance towards health. Ma'am also spoke about the history of millets, explaining that it is a traditional food widely eaten by many Indians in the 1900s. Ma'am told that after the "Green Revolution" the production of wheat and rice widely spread thus increased production of wheat and rice led to a decline in the cultivation of millets.
 
 ### 🌿***MILLETS***
@@ -176,8 +180,9 @@ Day 8 at college began with interesting lectures and useful sessions. The first 
 - Good for Detox
 - Rich in Iron
 
-Next lecture starts at 10:30 a.m in TCC Sem Hall. It was a mathematics lecture conducted by Prof. Gagandeep Kaur Lotey, in which ma'am introduced us to the number system where ma'am spoke about the Natural numbers, Whole numbers, Real numbers, Complex numbers and some basics of Number line. Ma'am clarified all the misconceptions we had in our minds and also told facts and give real life examples for better understanding.
+#### 🔹***Lecture*** 2. - ***Prof. Gagandeep Kaur Lotey***
+At 10:30 a.m. we had a mathematics lecture in the TCC Seminar Hall in which ma'am introduced us to the number system where ma'am spoke about the Natural numbers, Whole numbers, Real numbers, Complex numbers and some basics of Number line. Ma'am clarified all the misconceptions we had in our minds and also told facts and give real life examples for better understanding.
 
 Ma'am take an example of a race track, when we run at a race track we always run anti-clockwise it is beacuse according to mathematics anti-clockwise direction is basically a positive direction which completes a circle with positive numbers.  
 
-
+---
