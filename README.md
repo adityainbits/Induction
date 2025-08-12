@@ -12,10 +12,10 @@
 
 ## 🌟*HIGHLIGHTS*
 
-- Attended inspiring lectures by experienced speakers  
-- Engaged in interactive activities and group sessions  
-- Learned about college culture, time management, and communication  
-- Reflected on personal goals and growth
+- Attended inspiring lectures by experienced speakers.
+- Engaged in interactive activities and group sessions.  
+- Learned about college culture, time management, and communication.  
+- Reflected on personal goals and growth.
 
 ---
 
@@ -33,7 +33,7 @@ It was a great experience for me overall and I look forward to a more wholesome 
 ---
 
 ## *Day 2*.
-The second day at GNDEC starts with an English proficiency test followed by mathametics. This test was of 30 marks and the duration was around 50 minutes and my tests went well it was a basic class 12th test
+The second day at GNDEC starts with an English proficiency test followed by mathametics. This test was of 30 marks and the duration was around 50 minutes and my tests went well it was all about class 12th basic questions.
 
 #### 🔹***Lecture*** 1. - ***Dr. Arashdeep Singh***
 #### 🔺***Topic*** - ***Food A Pivotal Role In a Student's Overall Wellness***
